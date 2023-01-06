@@ -21,6 +21,9 @@
 5. [Chapter V](#chapter-v) 
 
 <h2 id="chapter-i" >Chapter I</h2>
+
+![Иллюстрация к проекту](misc/images/Illustration_02.jpeg)  
+
 <h2 id="preamble">Preamble</h2> 
 
 Резюме — это ваша визитная карточка, которая презентует тебя, твои ваши навыки и опыт.  
