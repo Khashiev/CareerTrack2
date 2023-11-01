@@ -1,331 +1,340 @@
 # Career track. Project 02
 
-В данном проекте ты упакуешь собственное резюме в соответствии с основными правилами для выбранной вакансии или стажировки, правильно опишешь навыки, опыт и финансовые ожидания, а также составишь сопроводительное письмо, учитывая собственные пожелания и ожидания от вакансии.
+In this project, you will write your own resume according to the basic rules for your chosen job or internship, properly describe skills, experience, and financial expectations, and craft a cover letter with your own job desires and expectations in mind.
 
 ## Contents
 
-1. [Chapter I](#chapter-i) \
-    1.1. [Preamble](#preamble)
-2. [Chapter II](#chapter-ii) \
-    2.1. [General rules](#general-rules)
-3. [Chapter III](#chapter-iii) \
-    3.1. Должность и контактная информация    
-    3.2. Навыки  
-    3.3. Опыт    
-    3.4. Где сделать резюме?  
-    3.5. Типичные ошибки в резюме    
-    3.6. Сопроводительное письмо  
-    3.7. Как говорить о зарплате?  
-4. [Chapter IV](#chapter-iv) \
-    [Задача ](#задача)    
+1. [Chapter I](#chapter-i)  
+ 1.1. [Preamble](#preamble)  
+2. [Chapter II](#chapter-ii)  
+ 2.1. [General rules](#general-rules)  
+3. [Chapter III](#chapter-iii)  
+ 3.1. Position and contact information   
+ 3.2. Skills  
+ 3.3. Experience  
+ 3.4. Where to make a resume?  
+ 3.5. Typical mistakes in a resume  
+ 3.6. Cover letter  
+ 3.7. How do you talk about salary?
+4. [Chapter IV](#chapter-iv)  
+ [Task](#task)  
 5. [Chapter V](#chapter-v) 
 
-<h2 id="chapter-i" >Chapter I</h2>
+## Chapter I
 
-![Иллюстрация к проекту](misc/images/Illustration_02.jpeg)  
+![Project illustration](misc/images/Illustration_02.jpeg)
 
-<h2 id="preamble">Preamble</h2> 
+## Preamble
 
-Резюме — это визитная карточка, которая презентует тебя, твои навыки и опыт.  
-Помни, что резюме ты пишишь не для себя, а для работодателя. Представь, что ты работодатель и читаешь свое резюме. Перед тем как отправить отклик, подумай ты бы хотели пригласить такого кандидата на собеседование?   
+A resume presents you, your skills and experience.
+ Remember that you are not writing a resume for yourself, but for an employer. Imagine you're an employer and you're reading your resume. Before sending a response, think if you would like to invite such a candidate for an interview.
 
-Резюме состоит из определенных разделов: 
-1. Должность и контактная информацияи;  
-2. Упаковка опыта;  
-3. Описание навыков;  
-4. Раздел о себе;  
-5. Другая информация, которую необходимо указать.  
+A resume consists of certain sections:
 
-В этом проекте ты научишься:  
-- составлять актуальное резюме и использовать его в дальнейшем;  
-- писать сопроводительное письмо;  
-- определять финансовые ожидания.   
+1. Position and contact information;
+2. Experience description;
+3. Skills description;
+4. "About me" section;
+5. Other information.
 
-**Литература:** 
-1. [Карьерные советы по резюме и примеры резюме по вакансиям](https://icanchoose.ru/blog/cid/2/)
-2. [Блог по резюме](https://myresume.ru/blog/)
-3. [Что писать в резюме, чтобы получить работу мечты: советы от HR для сферы IT](https://habr.com/ru/company/getmatch/blog/655463/)
-4. [Идеальное резюме для разработчика](https://habr.com/ru/post/542372/)
+In this project, you'll learn how to:
 
+- create an up-to-date resume and use it for future reference;
+- write a cover letter;
+- define financial expectations.
 
+**References:**
 
-<h2 id="chapter-ii">Chapter II</h2> 
-<h2 id="genеral-rules">Genеral rules</h2>  
+1. [Career resume tips and resume examples for job openings](https://icanchoose.ru/blog/cid/2/)
+2. [Blog about resume writing](https://myresume.ru/blog/)
+3. [What to write on your resume to get your dream job: HR tips for IT](https://habr.com/ru/company/getmatch/blog/655463/)
+4. [The perfect resume for a developer](https://habr.com/ru/post/542372/)
 
-1. Всю дорогу тебя будет сопровождать чувство неопределенности и острого дефицита информации - это нормально. Не забывай, что информация в репозитории и Google всегда с тобой, так же как пиры и Rocket.Chat. Общайся, ищи, опирайся на здравый смысл и не бойся ошибиться.  
-2. Будь внимателен к источникам информации: проверяй, думай, анализируй, сравнивай.   
-3. Будь внимателен к тексту задания, перечитывай по нескольку раз.   
-4. Внимательно читай примеры. В них может быть что-то, что не указано в явном виде в самом задании.  
-5. Могут встретиться несоответствия, когда что-то новое в условиях задачи или примере противоречит уже известному. Если встретилось такое — попробуй разобраться. Если не получилось — запиши вопрос в перечень открытых вопросов и найдешь ответ в процессе работы. Не оставляй открытые вопросы неразрешенными.   
-6. Если задание кажется непонятным или невыполнимым — так только кажется. Попробуй его декомпозировать. Скорее всего, отдельные части станут понятными. 
-7. На пути тебе встретятся разные задания. Такие как, помеченные звездочкой (*) — подходят для более дотошных и пытливых. Эти задания с повышенной сложностью и не обязательны к выполнению, но если ты их сделаешь, то получишь дополнительный опыт и знания.  
-8. Не пытайся обмануть систему и окружающих. Ведь, в первую очередь ты обманываешь себя.  
-9. Есть вопрос? Спроси своего соседа справа, если это не помогло — соседа слева.  
-10. Когда пользуешься чей-либо помощью, то всегда разбирайся до конца: почему, как и зачем. Иначе помощь не будет иметь смысла.  
-11. Всегда делай push только в ветку develop! Ветка master будет проигнорирована. Работай в директории src.  
-12. В твоей директории не должно быть иных файлов, кроме тех, что обозначены в заданиях. 
+## Chapter II
+## General rules
 
-<h2 id="chapter-iii">Chapter III</h2> 
+1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
+2. Be mindful of the sources of information: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, reread it several times.
+4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
+5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
+6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+9. Got a question? Ask your peers.
+10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
+11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
+12. There should be no files in your directory other than those designated in the assignments.
 
-## Должность и контактная информация
+## Chapter III
+## Position and contact information
 
-Контактная информация - эта первая информация, с которой знакомится рекрутер. Казалось бы какие там могут ошибки? Однако давайте сравним два оформления:
-![Контакты](misc/images/CT02.00.png)  
+Contact information is the first thing a recruiter sees. You'd think there'd be no mistakes. However, let's compare the two versions:
 
-Как тебе кажется, какие контакты выглядят более профессионально?
-
-Основные советы по оформлению этого блока: 
-1. **Указывай Фамилию и Имя**  
-Отчество в диджитал-среде не обязательно указывать, исключение может быть только, если ты планируешь в госсектор/банки.
-
-2. **Почта! Никаких kotletka@, princesska@, kotik@**  
-Давай оставим эти почты для спам-магазинов. 
-Как лучше указать фамилия_имя@... 
-Например, malikova_julia, malikovaj и тд. 
-
-3. **Телефон** должен быть рабочим и, желательно, единственным на который можно дозвониться. 
-
-4. **Укажи свой никнейм в телеграм** (только не kotik желательно).  
-Сейчас многие рекрутеры используют телеграм для первичного общения с кандидатом, что очень удобно. Там также можно договориться о дате собеседования.  
-
-5. **Вставь ссылку на портфолио (по желанию).**
-
-
-## Навыки  
-Навыки описываются в резюме, исходя из желаемой должности!
-Как определить, какие навыки писать?  
-
-**Необходимо вернуться к таблице с аналитикой твоих вакансий.**  
-Посмотреть еще раз вакансии, которые тебе нравятся и которые выбрал. Далее выписать самые часто встречающиеся навыки в описании и соотнести со твоим  опытом.  
-
-Существует большое количество [примеров](https://myresume.ru/examples/it-specialist/).  
-Выписывай навыки, исходя из твоего уровня знаний и опыта в порядке приоритетности. 
-И, конечно, не преувеличивай свои навыки, если ты не работал с каким-либо компонентом или просто отсутствует опыт, то лучше и не указывать. 
-
-
-## Упаковка опыта   
-Основные правила:  
-1. Опыт работы в резюме всегда указывается с последнего места к первому.  
-2. В опыте работы всегда должны присутствовать твои задачи и результаты. Любому потенциальному работодателю интересно посмотреть на твои  достижения.   
-Главный ответ, который хочет получить работодатель, глядя на твое резюме: “Чем ты был полезен прошлому работодателю?”  
-3. Вернись к анализу вакансий, посмотри, какие требования и обязанности указаны в вакансиях. Это твоя главная подсказка при написании резюме.
-
-Что важно указать в опыте работы?
-1. Название компании; 
-2. Период (года) работы; 
-3. Должность; 
-4. Задачи; 
-5. Результаты.   
-
-**1. Название компании**  
-Если ты работал в крупной компании, то скорее всего любой нанимающий hr-менеджер знает эти компании и такое резюме придает вес к опыту.  
-Если ты работал в малоизвестной фирме, то желательно написать, что выделяет эту компанию, какая сфера деятельности компании. Обычно эту информацию можно найти на сайте самой компании. Возможно, компания лидер в какой-либо индустрии, работает с крупными клиентами (Сбер, Яндекс и т.д). Все это можно указать в резюме.  
-
-**2. Период (года) работы**  
-
-- Указывай только месяцы и года. Не нужно писать точные даты приема и увольнения. Не нужно указывать в резюме в каждом опыте работы сколько месяцев ты  отработал в компаниях.  
-_Например:_ март 2018 - апрель 2020  
-Если ты работаешь на момент поиска работы, то можно указать так:
-март 2018 - по наст.время  
-
-- Всегда указывай опыт работы с последнего (текущего места) к первому твоему опыту.
-Если у тебя рваный опыт работы: по 3-4 месяца на каждом месте работы. Можно объединить в проектную деятельность/фриланс.   
-
--  Можно не указывать какие-то места и на собеседовании сказать, что были в поиске работы и проходили собеседования. Стандартный поиск работы может занимать от 3 до 6 месяцев - это нормально.
-Стараться в дальнейшем задерживаться на работе на год-полтора. 
-Потому что те, кто часто меняют место работы, для рекрутера расцениваются как непостоянные или ненадежные люди. 
-
-**3. Должность**   
-Указывай ту должность, которую ты занимал. Желательно, чтобы твоя должность и желаемая позиция были одинаковыми. 
-
-**4. Задачи**  
-Вопросы в помощь для описания прошлого опыта:
-1. Какую пользу я приносил компании?  
-2. Как моя работа влияет на цели компании/отдела?  
-3. Как мою работу можно оцифровать?  
-4. Какие показатели улучшились за время моей работы?  
-5. Какие мои сильные компетенции?
-_Чтобы ответить на этот вопрос посмотри задание SWOT-анализ_
-6. Сэкономил ли ты какие-либо ресурсы в компании? 
-7. Что ты умеешь делать лучше всех в твоей работе?  
-8. Повлиял ли ты на какие-либо процессы отдела/компании, что принесло улучшение?  
-
-Важно написать именно то, что ты делал, какие задачи перед тобой стояли. И не рекомендуется прописывать должностные инструкции, их никто не читает. 
-
-
-_Пример должностной инструкции: _
-_Должностные обязанности._
-Аналитик выполняет следующие должностные обязанности:  
-1. Организует аналитическое обеспечение научно-методических работ в ходе реализации программы опытно-экспериментальной работы.  
-2. Взаимодействует с заместителем директора по научно-методической работы и методистом.  
-3. Проводит аналитическую работу с целью сбора, оценки и анализа получаемой информации.    
-4. Участвует в организации и проведении научно-практических конференций, семинаров, круглых столов и других форм распространения опыта по теме реализуемого проекта опытно-экспериментальной работы.  
-5. Оказывает консультативную и практическую помощь сотрудникам учреждения по направлениям опытно-экспериментальной работы в рамках его компетенции.  
-
-В резюме же ты пишешь результат своей деятельности в работе, например:
-1. Разработал инструмент для анализа качества данных, использовал ML и статические методы. Инструмент позволил заказчику сэкономить до 60 чел/часов в месяц.  
-2. Переработал модель классификации текстов бухгалтерской отчетности. Новая модель работает на 15% быстрее и на 6% лучше по метрике f1.  
-
-**5. Результаты**  
-Этот пункт самый важный в резюме. Компании-работодателю всегда интересны, какие результаты ты сделал, поэтому желательно результаты оцифровать.
-Глаголы, которые помогут вам описать ваши достижения:
-- улучшил 
-- сократил 
-- оптимизировал 
-- разработал и др.  
-
-**Опыт работы без опыта. Что писать?**   
-Самый частый вопрос: "Что писать в резюме, если нет опыта?"  
-1. Стажировки или практики от “Школы 21”.
-2. Фриланс-проекты, которые можно и нужно занести в портфолио. 
-3. Учебные проекты, которые ты выполнял в рамках обучения “Школы 21” также можно заносить как твой опыт. 
-4. Участие в интеллектуальном волонтерском проекте или IT-помощь для волонтеров. 
-Где ты можешь подать заявку на проект,  и при успешном отборе выполнить задание и занести его в портфолио. (ProCharity).  
-5. Профессинальные проекты. Программистам можно участвовать в  [Open Source проектах](https://tproger.ru/articles/open-source-for-beginners/).   
-6. Опыт участия в кейс-чемпионатах и хакатонах.  
-
-## Раздел о себе  
-Что писать в разделе о себе?   
-1. **О твоих сильных сторонах на желаемую должность.**   
-Даже при отсутствии релевантного опыта можно найти сильные стороны из прошлого опыта. Чаще всего это относится к так называемым “софт скиллам”. Всегда апеллируй твоим прошлым опытом, почему ты считаешь тот или иной навык твоей сильной стороной. Посмотри в прошлом проекте задание 2, где ты делал анализ твоих сторон.  
-
-2. О твоем желании и целях развиваться в новой области. Почему ты хочешь развиваться, что привело тебя в эту сферу. Сюда также можно добавить ссылку на портфолио/сайт/профессиональный блог.
-
-_Совет №1:_  
-1. В разделе можно указать твою цель. Напиши, почему ты любишь свою работу, что тебя вдохновляет?  
-2. Укажи твои качества, которые не имеют отношения к профессии, например, твои спортивные достижения.  
-3. Укажи твои мягкие навыки (софт скиллы).  
-Только не пиши через запятую: стрессоустойчивый, проактивный, коммуникабельный и т.д.
-Когда указываешь подобные навыки, возвращайтесь к своему прошлому опыту. Задай себе вопрос, почему у тебя лидерские качества? Возможно у тебя был опыт в студенческие годы ведения проектов, за которые ты нес ответственность? Если ты стрессоустойчив? Почему? Какая ситуация/работа способствовала развитию такого навыка?
-  
-
-## Где сделать резюме?  
-1. Сформировать резюме на hh.ru.  
-2. Использовать конструкторы резюме, например: BuduJobs, Icanchoose, Grintern, Novoresume, MyResume.ru. 
-3. Использовать готовые шаблоны в Canva.  
-4. Оформить резюме в Word (и сохранить в формате PDF).  
-5. Создать резюме в Word и сохранить на Google диске и отправлять ссылку на свое резюме.  
-(Не забудьте открыть доступ)  
-7. Создать резюме в Notion.
-
-_Совет №1 "Сделайте два резюме: одно на HH.ru, а второе в любом конструкторе"_  
-HH.ru является стартовой площадкой в поиске работы, а для других карьерных сайтов или при поиске работы в телеграм каналах можно использовать другое резюме.  
-
-_Совет №2. "Не более 2-ух страниц, а лучше одна"_   
-Стандарт резюме 2 страницы, желательно основную информацию разместить на первой странице. 
-Но запомни, не важно сколько у тебя страниц в резюме, главное, чтобы твое резюме было интересно читать. 
-
-## Типичные ошибки в резюме  
-| Ошибка | Как исправить |
-| ------ | ------ |
-| 1. Отсутствие достижений в твоем опыте работы | Расписать не только твои обязанности, но и указать твои KPI.Например:  - вошел в ТОП-3 лучших студентов курса; - являлся наставником для 5+ сокурсников, оказывал помощь в освоении программы обучения - выполнил 30+ учебных проектов. KPI – это измеримые показатели твоей  работы. Эти данные показывают твою  эффективность, и то, что интересно работодателю. |
-| 2. Указан неверный уровень владения иностранным языком | Будь честен, указывай тот, который у тебя  есть на данный момент. Начальный уровень (Beginner); Элементарный уровень (Elementary); Ниже среднего (Pre-Intermediate); Средний (Intermediate); Выше среднего (Upper Intermediate);  Продвинутый (Advanced); Супер продвинутый (Mastery). |
-| 3. Орфографические ошибки в резюме | Попроси проверить резюме друга, преподавателя или на [сайте](https://glvrd.ru/) |
-| 4. Некорректные зарплатные ожидания | Изучи рынок зарплат в твоей отрасли и в твоем регионе |
-| 5. Указание непрофильного опыта | Убери его из резюме, который не соответствует желаемой должности |
-| 6. Слишком длинное резюме (на 3 и более страницы) | Убери лишнее, резюме должно быть информативным и лаконичным. Максимум 2 страницы. |
-
-## Сопроводительное письмо 
-Зачем и в каких случаях нужно сопроводительное письмо?   
-1. Сопроводительное нужно, когда его просят написать в самой вакансии.   
-Если этот пункт там есть, то лучше не пренебрегать и выполнить условия вакансии.  
-2. Если ты меняешь сферу, то в сопроводительном письме обязательно нужно написать о твоей новой мотивации.  
-3. Если ты молодой специалист и только начинаешь свою карьеру.   
-4. Если в самой компании нет вакансии, но ты очень туда хочешь.
-
-В сопроводительном письмо тебе необходимо глобально ответить на два вопроса:  
-1. Зачем вы нужны компании?  
-2. Зачем компания нужна вам?  
-
-Ответьте себе на вопрос “Что вас цепляет? Почему ты действительно хочешь там работать?”  
-Покажи свою мотивацию.  
-
-**Шаг 1.** 
-Проведи анализ компании/вакансии/проекта. 
-- задачи на желаемой позиции (проблемы, приоритеты);   
-- требования к кандидату;  
-- миссия компании; 
-- ценности; 
-- качества, которые ценит та или иная компания. 
-
-**Шаг 2.**
-Ответь на вопросы:
-- Что мне известно про компанию?  
-- Что меня мотивирует в этой позиции?  
-- Насколько эта позиция является логичным продолжением карьеры?  
-- Что я могу сделать для решения той или иной проблемы?  
-- Какими навыками, знаниями, достижениями я обладаю, чтобы соответствовать данной позиции?  
-
-**Шаг 3.**
-Составь сопроводительное письмо, используя структуру:  
-1. Краткое приветствие (Если знаешь имя HR-менеджера, то можно поприветствовать в письме).  
-2. Расскажи, на какую должность ты претендуешь, если отправляешь резюме на рабочую почту работодателя. Лучше указывать, где именно ты увидел вакансию.  
-3. Интерес к вакансии/компании/проекту (Ответ на вопрос: Почему компания тебе интересна?).       
-4. Сильные стороны, исходя из желаемой должности (Ответ на вопрос: Почему этой компании ты можешь быть интересен?).   
-5. Снова напомните о вашей мотивации. К примеру: с радостью приму участие в конкурсе на вакансию.   
-6. Укажите ваши контактные данные.  
-
-Пример [Сопроводительного письма](materials/Сопроводительное_письмо.pdf). (доступно для скачивания в папке materials -> Сопроводительное_письмо)  
-
-## Как говорить о зарплате?  
-Старайся быть в теме рынка аналитики зарплат. Ты всегда можешь посмотреть свой файл по аналитике вакансий.  
-В открытых источниках много информации о средней “вилке” специалистов. 
-
-Полезные ресурсы для аналитики зарплат:   
-1. Зарплатомер (SuperJob -> Зарплатометр);
-2. Обзор зарплат (КАУС - Обзор заработных плат);
-4. Кадровые агентства, которые проводят аналитику зарплат (RealHR).
-
-Для ведения переговоров о зарплате, как на стадии трудоустройства, так и при разговоре о повышении, важно понимать, сколько ваш труд стоит на рынке:   
-- Подготовься к вопросу «Почему/за что работодатель должен повышать зарплату? Тут важно, что ты показываешь результаты и твой труд в компании  приносит пользу/деньги. Тогда подготовьте небольшой отчет о проделанной работе. Что вы делали/Что сделали? Как было/Как стало? Что улучшилось благодаря вашей работе/Какие показатели стали больше/меньше за счет чего/каких ресурсов? 
-- Посмотри самостоятельно аналитику вакансий. Ты сделал аналитику вакансий в прошлом проекте. Это тоже твоя подсказка для переговоров о зарплате.  
-Если большинство навыков соответствуют желаемым позициям, это хороший повод поговорить с руководителем о повышении.
-
-
-<h2 id="chapter-iv">Chapter IV</h2>  
-
-## Задача  
-
-Тебе необходимо сделать собственное резюме для вакансии, которую ты отобрал в предыдущем проекте.
-После того, как ты сделаешь резюме, необходимо найти человека на такой же должности, на которую претендуешь или среди выпускников “Школы 21”, и получить обратную связь по резюме.  
-
-Желательно оценить каждый блок резюме:  
-1. Контакты и желаемая должность. 
-2. Опыт работы. 
-3. Навыки. 
-4. Соответствуешь ли ты конкретной должности. 
-
-
-<h2 id="chapter-v">Chapter V</h2>  
-
-## Exercise 00 
-### Твое резюме
-Алгоритм действий:
-1. Зарегистрироваться на сайте hh.ru.  
-2. Найти желаемую вакансию, которая подходит по твоим навыкам и опыту из Project 01.  
-3. Создать резюме для твоей желаемой должности.  
-4. Заполнить раздел контактной информации.  
-5. Заполнить раздел “опыт работы”.  
-6. Указать необходимые навыки, которые соответствует конкретной должности.  
-7. Опубликовать резюме.  
-8. Прикрепить готовое резюме в папку src.   
+|   |   |   |
+| --- | --- | --- |
+| John Smith <br /> [kittycat@gmail.com](mailto:kittycat@gmail.com) <br /> Phone: 18002752273 | **OR** | John Smith<br />[john\_smith@gmail.com](mailto:john_smith@gmail.com)<br /> Phone: 1-800-275-2273<br />Telegram: @john\_smith |
+
+Which contacts do you think look more professional?
+
+Basic tips on how to design this block:
+
+1. **Provide Last Name and First Name.**
+Patronymic in a digital environment is not necessary to specify, exceptions can be made only if you are planning to go to public sector/banks.
+
+2. **Your email!** No kotletka@, princesska@, kotik@.
+Let's keep those emails for other occasions. The right way to name your email is lastname\_name@... For example, malikova\_julia, malikovaj, etc.
+
+3. The **phone number** must work and preferably be the only one that can be reached.
+
+4. **Specify your Telegram username** (make sure you've changed it from @kotik to something more professional).
+ Now many recruiters use Telegram for initial communication with the candidate, which is very convenient. You can also arrange an interview date there.
+
+5. **Insert a link to your portfolio (optional).**
+
+## Skills
+
+Describe your skills according to the desired position. How do you know what skills to mention?
+
+**You need to go back to the table with your job analytics.**
+ Look again at the jobs you liked and chose. Next, write out the most common skills in the description and relate them to your experience.
+
+There are a large number of [examples](https://myresume.ru/examples/it-specialist/). Write out the skills based on your level of knowledge and experience in order of priority. And of course, don't exaggerate your skills. If you haven't worked with some components or just lack experience, it's better not to specify.
+
+## Experience description
+
+Ground rules:
+
+1. Work experience on a resume is always listed from last job to first job.
+2. Your work experience should always include your tasks and outcomes. Any potential employer wants to look at your accomplishments.
+ The main question an employer poses when looking at your resume is: "How were you useful to your past employer?"
+3. Go back to analyzing job postings, look at the requirements and responsibilities listed in them. This is your top tip when writing your resume.
+
+What is important to include in the work experience?
+
+1. Company name;
+2. Period(s) of employment;
+3. Position;
+4. Tasks;
+5. Outcomes.
+
+**1. Company name**
+ If you've worked for a large company, chances are any HR manager knows these companies and such a resume adds weight to experience.
+ If you've worked for a little-known company, it's advisable to write what makes this company stand out, what the company's area of expertise is. This information can usually be found on the website of the company itself. Perhaps the company is a leader in some industry, and works with large clients (Sber, Yandex, etc.). All of these facts can be listed on a resume.
+
+**2. Period(s) of employment**
+
+- Specify months and years only. You don't have to write the exact dates you were hired and when you left the job. You don't have to list on your resume how many months you've worked for companies.  
+ *For example*: March 2018 - April 2020 is enough.  
+ If you are employed at the time of your job search, you can specify it this way: March 2018-present
+
+- Always list the experience from your last (current position) to your first position. If you have interruptions in work experience, specify it this way: three to four months at each job. You can combine it into a project activity/freelance.
+
+- You can omit some jobs and say at the interview that you have been job hunting and interviewing. A standard job search can take 3 to 6 months. Try to stay in a job for a year and a half in the future, because those who change jobs frequently are seen by the recruiter as unreliable.
+
+**3. Position**  
+Specify the position you held. Preferably, your job title and desired position should be the same.
+
+**4. Objectives**  
+ Questions to help describe past experiences:
+
+1. What value did I bring to the company?
+2. How does my work impact the company/department goals?
+3. How can my work be digitized?
+4. What metrics have improved during my tenure?
+5. What are my strong competencies? _To answer this question, look at the SWOT analysis assignment_
+6. Have I saved any company resources?
+7. What do I do best in my job?
+8. Have I had an impact on improving any department/company processes?
+
+It's important to write exactly what you did and what the challenges were. It is not recommended to copy-paste job descriptions: no one reads them.
+
+**Example of job description.**  
+_Job Responsibilities._ The analyst performs the following job duties:
+
+1. Organizes analytical support of scientific and methodological work in the course of implementation of the program of experimental work.
+2. Interacts with the deputy director for scientific and methodological work and methodologist.
+3. Conducts analytical work to collect, evaluate and analyze information received.
+4. Participates in the organization of scientific and practical conferences, seminars, round tables and other forms of dissemination of experience on the topic of the implemented project of experimental work.
+5. Provides consultative and practical assistance to the staff of the institution in the areas of experimental work within their competence.
+
+On a resume, on the other hand, you write the result of your performance in a job, for example:
+
+1. Developed a tool to analyze data quality, used ML and static methods. The tool allowed the customer to save up to 60 man/hours per month.
+2. Redesigned the model of classification of accounting texts. The new model is 15% faster and 6% better on the f1 metric.
+
+**5. Outcomes**
+ This item is the most important on the resume. The hiring companies are always interested in what results you have achieved, so it is advisable to digitize them. Verbs to help you describe your accomplishments:
+
+- I improved…
+- I reduced…
+- I optimized…
+- I developed...
+
+**Work Experience Without Experience.** What to write?
+The most common question is: "What to write on a resume if you don't have experience?"
+
+1. Internships or practicums from School 21.
+2. Freelance projects that you can and should put in your portfolio.
+3. The learning projects you did as part of your School 21 training can also be recorded as your experience.
+4. Participate in a smart volunteer project. Apply for a project, and if successfully selected, complete the assignment and put it in your portfolio. (ProCharity).
+5. Professional Projects. Programmers can participate in [Open Source projects](https://tproger.ru/articles/open-source-for-beginners/).
+6. Experience in case championships and hackathons.
+
+## "About me" section
+
+What should I write in the about me section?
+
+1. First and foremost, list your strengths that are important for the desired position.
+ Even if you lack relevant experience, you can find strengths. This is most often the case with so-called "soft skills". Always appeal to your past experience as to why you think a particular skill is your strength. Look at last project exercise 2, where you did an analysis of your strengths and weaknesses.
+
+2. Write about your desire and ambition to develop in a new field. Tell people why you want to develop, what brought you into this field, etc. You can also attach a link to your portfolio/website/professional blog.
+
+_Tip #1:_
+
+1. In the section, you can state your goal. Write about why you love your job and what inspires you.
+2. Indicate your qualities that are not related to the position, such as your athletic accomplishments.
+3. Specify your soft skills.
+ Make sure you don't put it like that: stress-resistant, proactive, communicative, etc. When pointing out such skills, go back to your past experiences. Ask yourself: why do I have leadership skills? Perhaps you had experience as a project leader when you were a student? What made you stress-resistant?
+
+## Where to create a resume?
+
+1. Make a resume on hh.ru.
+2. Use resume builders, such as: BuduJobs, Icanchoose, Grintern, Novoresume, MyResume.ru.
+3. Use ready-made templates in Canva.
+4. Format your resume in Word (and save as a PDF).
+5. Create a resume in Word, save it on Google drive and send a link to your resume.
+ (Don't forget to open access).
+6. Create a resume in Notion.
+
+_Tip #1 "Make two resumes: One on HH.ru, and the second in any builder"_  
+HH.ru is a starting point in the job search. You can use a different resume for other career sites or when looking for a job in telegram channels.
+
+_Tip #2. "No more than 2 pages, but preferably one"_  
+ The standard resume is 2 pages. You should place the most important information on the first page. But remember, it doesn't matter how many pages you have on your resume, what matters is that your resume is engaging.
+
+## Typical mistakes when making a resume
+
+| Mistake | How to fix it |
+| --- | --- |
+| 1. Lack of achievement in your work experience | Outline not only your responsibilities, but also state your KPIs. For example:<br/> - was one of the top 3 students in the course;<br/> - Served as a mentor to 5+ fellow students, assisted in mastering the curriculum;<br/> - completed 30+ learning projects.<br/> KPIs are measurable indicators of your performance. This data shows your effectiveness, and that's what the employer is interested in. |
+| 2. Incorrect level of foreign language proficiency is indicated | Be honest and specify the one you currently have. Beginner; Elementary level; Pre-Intermediate; Intermediate; Upper Intermediate; Advanced; Mastery/proficiency. |
+| 3. Spelling mistakes in a resume | Ask your friend/teacher/mentor to check your resume or use this [website](https://glvrd.ru/). |
+| 4. Incorrect salary expectations | Research the salary market in your industry and in your region. |
+| 5. Indication of non-core experience | Take it off your resume if it doesn't fit the desired position. |
+| 6. The resume is too long (3 or more pages) | Eliminate the unnecessary: the resume should be informative and concise. Two pages at most! |
+
+## Cover letter
+
+Why and when do I need a cover letter?
+
+1. Cover letter is needed when it is asked to write one in the job description.
+ If this paragraph is there, it is better not to neglect it and fulfill the condition.
+2. If you're changing fields, it's imperative to write about your new motivation in your cover letter.
+3. If you are a young professional and just starting your career.
+4. If there is no vacancy in the company itself, but you really want to work there.
+
+You need to answer two questions in your cover letter:
+
+1. Why does the company need you?
+2. Why do you need the company?
+
+Answer yourself the question, "What is it that hooks you? Why do you really want to work there?
+ Show your motivation.
+
+**Step 1.** Analyze the company/job/project.
+
+- tasks at the desired position (problems, priorities);
+- candidate requirements;
+- company mission;
+- values;
+- the qualities that a particular company values.
+
+**Step 2.** Answer the questions:
+
+- What do I know about the company?
+- What motivates me in this position?
+- To what extent is this position a logical extension of my career?
+- What can I do to solve a particular problem?
+- What skills, knowledge, accomplishments do I possess to qualify for this position?
+
+**Step 3.** Compose a cover letter using the structure:
+
+1. A brief greeting (If you know the HR's name, use it in your greeting).
+2. Tell me what position you're applying for if you're sending a resume to an employer's work email. It's better to state exactly where you saw the job posting.
+3. Interest in the job/company/project (Answer the question: Why is the company interesting to you?).
+4. Strengths according to the desired position (Answer the question: Why might this company be interested in you?).
+5. Again, remind everybody of your motivation. For example: I would be happy to be considered for the position.
+6. Include your contact information.
+
+Example of a [Cover Letter](materials/Cover_Letter.pdf). (available for download in the folder materials -> Cover_Letter)
+
+## How do you talk about salary?
+
+Try to stay on top of the salary analytics market. You can always look at your job analytics file.  
+ There's a lot of information in open sources about the average salary range for specialists.
+
+Useful resources for salary analytics:
+
+1. Zarplatomer (SuperJob -\> Zarplatomer);
+2. Salary Survey (CAUS - Salary Survey);
+3. Staffing agencies that perform salary analytics (RealHR).
+
+To negotiate salary, whether at the recruitment stage or when talking about a raise, it's important to understand how much your labor is worth in the market:
+
+- Prepare yourself for the question "Why should we raise your salary?" What matters here is that you are showing results and your hard work in the company is making a difference/money. Then prepare a little progress report. What did you do? What have you accomplished? How was \*something\*/how is it now? What has improved as a result of your work/what indicators have increased/decreased due to what/what resources?
+- Look at the job analytics yourself. You've done job analytics on a past project. This is also your clue for salary negotiations.  
+ If most of your skills match your desired positions, it's a good reason to talk to the person responsible about a raise.
+
+## Chapter IV
+
+## Task
+
+You need to make your own resume for the position you selected in the previous project. After you make a resume, you need to find someone in the same position you are applying for or among School 21 alumni and get feedback on the resume.
+
+It is desirable to evaluate each block of the resume:
+
+1. Contacts and desired position.
+2. Experience.
+3. Skills.
+4. Whether you are a good fit for a particular position.
+
+## Chapter V
+## Exercise 00
+### Your resume
+
+Action Algorithm:
+
+1. Sign up to the hh.ru website.
+2. Find a desired position that fits your skills and experience (Use Project 01).
+3. Create a resume for your desired position.
+4. Fill out the contact information section.
+5. Fill out the "work experience" section.
+6. Specify the required skills that are appropriate for the specific position.
+7. Publish a resume.
+8. Attach the finished resume to the _src_ folder.
 
 ## Exercise 01
-### Проверка резюме
-Алгоритм действий:
-1. Найти человека, который работает на текущей позиции или управляет такой командой.  
-2. Попросить дать обратную связь по резюме (желательно в формате переписки).  
-3. Прикрепить обратную связь.  
-4. Написать, что ты изменил после обратной связи. 
+### Checking resumes
 
-_*Тебе пригодится сообщество “Школы 21”._
+Action Algorithm:
+
+1. Find someone who works in a current position or manages such a team.
+2. Ask for feedback on the resume (preferably in a correspondence format).
+3. Attach feedback.
+4. Mention what you changed after getting feedback.
+
+_\*You could use the School 21 community._
 
 ## Exercise 02
-### Сопроводительное письмо 
-Алгоритм действий:
-1. Напиши к выбранной вакансии сопроводительное письмо.  
-2. Ответь на два главных вопроса в сопроводительном письме:  
-   - Зачем ты нужен компании?   
-   - Зачем компания нужна тебе?   
 
->Пожалуйста, оставь обратную связь по проекту в [форме обратной связи.](https://forms.gle/EswurHPem46cnxCZA)
+### Cover letter
+
+Action Algorithm:
+
+1. Write a cover letter to the selected job opening.
+2. Answer the two main questions in your cover letter:
+  - Why does the company need you?
+  - Why do you need the company?
+
+>Please leave feedback on the project in the [feedback form.](https://forms.gle/EswurHPem46cnxCZA)
