@@ -213,6 +213,8 @@ HH.ru is a starting point in the job search. You can use a different resume for 
 _Tip #2. "No more than 2 pages, but preferably one"_  
  The standard resume is 2 pages. You should place the most important information on the first page. But remember, it doesn't matter how many pages you have on your resume, what matters is that your resume is engaging.
 
+The School 21 PIN team has prepared for you a checklist for creating a resume, as well as a resume template in Figma (materials -> Instructions for creating a resume).
+
 ## Typical mistakes when making a resume
 
 | Mistake | How to fix it |
@@ -308,11 +310,14 @@ Action Algorithm:
 1. Sign up to the hh.ru website.
 2. Find a desired position that fits your skills and experience (Use Project 01).
 3. Create a resume for your desired position.
-4. Fill out the contact information section.
-5. Fill out the "work experience" section.
-6. Specify the required skills that are appropriate for the specific position.
-7. Publish a resume.
-8. Attach the finished resume to the _src_ folder.
+4. Fill out the "about me" section.  
+5. Fill out the "contact information" section.  
+6. Fill out the "work experience" section. 
+7. Complete the "projects" section.
+8. Fill in the "education" section.  
+9. Fill in the "skills" section that corresponds to the specific position.  
+10. Post the resume.  
+11. Attach the completed resume to the _src_ folder. 
 
 ## Exercise 01
 ### Checking resumes
