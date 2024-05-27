@@ -1,6 +1,6 @@
 # Career track. Project 02
 
-In this project, you will write your own resume according to the basic rules for your chosen job or internship, properly describe skills, experience, and financial expectations, and craft a cover letter with your own job desires and expectations in mind.
+In this project, you will write your own resume according to the basic rules for your chosen job or internship, properly describing skills, experience, and financial expectations, and write a cover letter with your own job desires and expectations in mind.
 
 ## Contents
 
@@ -26,10 +26,10 @@ In this project, you will write your own resume according to the basic rules for
 
 ## Preamble
 
-A resume presents you, your skills and experience.
- Remember that you are not writing a resume for yourself, but for an employer. Imagine you're an employer and you're reading your resume. Before sending a response, think if you would like to invite such a candidate for an interview.
+A resume showcases you, your skills, and your experience.
+ Remember that you are not writing a resume for yourself, but for an employer. Imagine that you're an employer reading your resume. Before you send a reply, think about whether you would like to invite such a candidate for an interview.
 
-A resume consists of certain sections:
+A resume consists of several sections:
 
 1. Position and contact information;
 2. Experience description;
@@ -39,37 +39,37 @@ A resume consists of certain sections:
 
 In this project, you'll learn how to:
 
-- create an up-to-date resume and use it for future reference;
-- write a cover letter;
-- define financial expectations.
+- Create a current resume and use it for future reference;
+- Write a cover letter;
+- Define financial expectations.
 
 **References:**
 
-1. [Career resume tips and resume examples for job openings](https://icanchoose.ru/blog/cid/2/)
-2. [Blog about resume writing](https://myresume.ru/blog/)
-3. [What to write on your resume to get your dream job: HR tips for IT](https://habr.com/ru/company/getmatch/blog/655463/)
-4. [The perfect resume for a developer](https://habr.com/ru/post/542372/)
+1. [Career Resume Tips and Resume Samples for Job Postings](https://icanchoose.ru/blog/cid/2/).
+2. [Resume Writing Blog](https://myresume.ru/blog/).
+3. [What to Write on Your Resume to Get Your Dream Job: HR Tips for IT](https://habr.com/ru/company/getmatch/blog/655463/).
+4. [The Perfect Resume for a Developer](https://habr.com/ru/post/542372/).
 
 ## Chapter II
-## General rules
+## General Rules
 
-1. All along the way, you'll be accompanied by a sense of uncertainty and a severe lack of information. Don't worry: it's perfectly normal. Don't forget that the information in the repository and Google is always with you, as are the peers and Rocket.Chat. Communicate, search, use common sense and don't be afraid of mistakes.
-2. Be mindful of the sources of information: check, think, analyze, compare.
-3. Pay close attention to the text of the assignment, reread it several times.
+1. Along the way, you'll feel a sense of uncertainty and a severe lack of information. Don't worry: this is normal. Remember that the information in the repository and on Google is always with you, as are your peers and Rocket.Chat. Communicate, search, use common sense, and don't be afraid to make mistakes.
+2. Pay attention to information sources: check, think, analyze, compare.
+3. Pay close attention to the text of the assignment, read it several times.
 4. Read the examples carefully. There may be something in them that is not explicitly stated in the assignment itself.
-5. You may encounter inconsistencies when something new in a task condition or example contradicts something you already know. If you come across something like that, try to figure it out. If it doesn't work, put the question in the list of open questions, and you'll find the answer as you go along. Don't leave open questions unanswered.
-6. If a task seems incomprehensible or impossible to complete, remember that it's not true: you only see it this way. Try to deconstruct it, and certain parts will become clear.
-7. You'll encounter different tasks along the way. Those marked with an asterisk (\*) are suitable for the most meticulous and inquisitive students. These assignments are of higher difficulty and optional, but they'll help you gain additional experience and knowledge.
-8. Don't try to cheat the system and those around you. After all, you're fooling yourself first and foremost.
+5. You may encounter inconsistencies when something new in a condition or example contradicts something you already know. If you come across something like this, try to figure it out. If you can't, put it in the list of open questions and you'll find the answer as you go. Don't leave open questions unanswered.
+6. If a task seems incomprehensible or impossible, remember that it isn't: you just see it that way. Try to deconstruct it, and certain parts will become clear.
+7. You'll encounter various tasks along the way. Those marked with an asterisk (\*) are for the most meticulous and curious students. These tasks are more difficult and optional, but they'll help you gain additional experience and knowledge.
+8. Don't try to cheat the system or the people around you. You'll only be cheating yourself.
 9. Got a question? Ask your peers.
-10. When you resort to someone else's help, make sure you always understand why, how, and for what purpose. Otherwise, the help won't do you any good.
+10. When you ask someone for help, always make sure you understand why, how, and to what end. Otherwise, the help won't help you.
 11. Always _push_ only to the _develop_ branch! The _master_ branch will be ignored. Work in the _src_ directory.
-12. There should be no files in your directory other than those designated in the assignments.
+12. There should be no files in your directory other than those specified in the tasks.
 
 ## Chapter III
-## Position and contact information
+## Position and Contact Information
 
-Contact information is the first thing a recruiter sees. You'd think there'd be no mistakes. However, let's compare the two versions:
+Contact information is the first thing a recruiter will see. You might think there's no room for error. But let's compare the two versions:
 
 |   |   |   |
 | --- | --- | --- |
@@ -77,143 +77,143 @@ Contact information is the first thing a recruiter sees. You'd think there'd be 
 
 Which contacts do you think look more professional?
 
-Basic tips on how to design this block:
+Basic tips for designing this block:
 
-1. **Provide Last Name and First Name.**
+1. **Provide your last name and first name.**
 Patronymic in a digital environment is not necessary to specify, exceptions can be made only if you are planning to go to public sector/banks.
 
-2. **Your email!** No kotletka@, princesska@, kotik@.
-Let's keep those emails for other occasions. The right way to name your email is lastname\_name@... For example, malikova\_julia, malikovaj, etc.
+2. **Your e-mail!** No kotletka@, princesska@, kotik@.
+Let's save these emails for other occasions. The correct way to name your email is lastname_name@... For example, malikova_julia, malikovaj, etc.
 
 3. The **phone number** must work and preferably be the only one that can be reached.
 
-4. **Specify your Telegram username** (make sure you've changed it from @kotik to something more professional).
- Now many recruiters use Telegram for initial communication with the candidate, which is very convenient. You can also arrange an interview date there.
+4. **Write your Telegram username** (make sure you've changed it from @kotik to something more professional).
+ Many recruiters now use Telegram for initial communication with candidates, which is very convenient. You can also schedule an interview there.
 
 5. **Insert a link to your portfolio (optional).**
 
 ## Skills
 
-Describe your skills according to the desired position. How do you know what skills to mention?
+Describe your skills according to the position you are applying for. How will you know what skills to include?
 
-**You need to go back to the table with your job analytics.**
- Look again at the jobs you liked and chose. Next, write out the most common skills in the description and relate them to your experience.
+**You need to go back to the table with your job analysis.**
+ Look again at the jobs you liked and chose. Next, write down the most common skills in the description and relate them to your experience.
 
-There are a large number of [examples](https://myresume.ru/examples/it-specialist/). Write out the skills based on your level of knowledge and experience in order of priority. And of course, don't exaggerate your skills. If you haven't worked with some components or just lack experience, it's better not to specify.
+There are many [examples](https://myresume.ru/examples/it-specialist/). List the skills in order of priority based on your level of knowledge and experience. And, of course, don't exaggerate your skills. If you haven't worked with some components or just don't have the experience, it's better not to list them.
 
-## Experience description
+## Experience Description
 
 Ground rules:
 
 1. Work experience on a resume is always listed from last job to first job.
-2. Your work experience should always include your tasks and outcomes. Any potential employer wants to look at your accomplishments.
- The main question an employer poses when looking at your resume is: "How were you useful to your past employer?"
-3. Go back to analyzing job postings, look at the requirements and responsibilities listed in them. This is your top tip when writing your resume.
+2. Your work experience should always include your duties and results. Every potential employer wants to see your accomplishments.
+ The main question an employer asks when looking at your resume is: "How were you useful to your previous employer?"
+3. Go back to analyzing job postings and look at the requirements and responsibilities listed in them. This is your most important resume writing tip.
 
-What is important to include in the work experience?
+What is important to include in your work experience?
 
-1. Company name;
+1. The name of the company;
 2. Period(s) of employment;
-3. Position;
-4. Tasks;
-5. Outcomes.
+3. Position held;
+4. Duties;
+5. Results.
 
-**1. Company name**
- If you've worked for a large company, chances are any HR manager knows these companies and such a resume adds weight to experience.
- If you've worked for a little-known company, it's advisable to write what makes this company stand out, what the company's area of expertise is. This information can usually be found on the website of the company itself. Perhaps the company is a leader in some industry, and works with large clients (Sber, Yandex, etc.). All of these facts can be listed on a resume.
+**1. Company Name**
+ If you've worked for a large company, there's a good chance that every hiring manager knows about it, and such a resume adds weight to the experience.
+ If you've worked for a lesser-known company, it's a good idea to include what makes this company different, what the company specializes in. This information can usually be found on the company's website. Perhaps the company is a leader in some industry and works with large clients (Sber, Yandex, etc.). All these facts can be included in a resume.
 
 **2. Period(s) of employment**
 
-- Specify months and years only. You don't have to write the exact dates you were hired and when you left the job. You don't have to list on your resume how many months you've worked for companies.  
- *For example*: March 2018 - April 2020 is enough.  
- If you are employed at the time of your job search, you can specify it this way: March 2018-present
+- Indicate only months and years. You don't need to write the exact dates when you were hired and when you left the job. You don't have to list how many months you worked for companies on your resume.  
+ *For example: March 2018 — April 2020 is enough.  
+ If you are employed at the time of your job search, you can list it this way: March 2018 — present.
 
-- Always list the experience from your last (current position) to your first position. If you have interruptions in work experience, specify it this way: three to four months at each job. You can combine it into a project activity/freelance.
+- Always list your experience from your most recent (current) position to your first position. If you have interruptions in your work experience, list them like this: three to four months at each job. You can combine them into one project activity/freelance.
 
-- You can omit some jobs and say at the interview that you have been job hunting and interviewing. A standard job search can take 3 to 6 months. Try to stay in a job for a year and a half in the future, because those who change jobs frequently are seen by the recruiter as unreliable.
+- You can leave out some jobs and tell the interviewer that you have been searching and interviewing. A standard job search can take 3 to 6 months. In the future, try to stay in one job for a year and a half, because people who change jobs frequently are considered unreliable by recruiters.
 
-**3. Position**  
-Specify the position you held. Preferably, your job title and desired position should be the same.
+**3. Position**
+State the position you held. Preferably, your job title and your desired position should be the same.
 
-**4. Objectives**  
- Questions to help describe past experiences:
+**4. Objectives** 
+ Questions to help you describe your past experience:
 
-1. What value did I bring to the company?
-2. How does my work impact the company/department goals?
+1. How did I add value to the company?
+2. How does my work impact company/department goals?
 3. How can my work be digitized?
 4. What metrics have improved during my tenure?
-5. What are my strong competencies? _To answer this question, look at the SWOT analysis assignment_
-6. Have I saved any company resources?
+5. What are my strengths? To answer this question, look at the SWOT analysis assignment.
+6. Have I saved company resources?
 7. What do I do best in my job?
-8. Have I had an impact on improving any department/company processes?
+8. Did I have an impact on improving a department/company process?
 
-It's important to write exactly what you did and what the challenges were. It is not recommended to copy-paste job descriptions: no one reads them.
+It's important to write exactly what you did and what the challenges were. It is not recommended to copy and paste job descriptions: no one reads them.
 
-**Example of job description.**  
-_Job Responsibilities._ The analyst performs the following job duties:
+**Sample job description:** 
+
+_Job Responsibilities._ The analyst performs the following duties:
 
 1. Organizes analytical support of scientific and methodological work in the course of implementation of the program of experimental work.
-2. Interacts with the deputy director for scientific and methodological work and methodologist.
-3. Conducts analytical work to collect, evaluate and analyze information received.
-4. Participates in the organization of scientific and practical conferences, seminars, round tables and other forms of dissemination of experience on the topic of the implemented project of experimental work.
-5. Provides consultative and practical assistance to the staff of the institution in the areas of experimental work within their competence.
+2. Interacts with the deputy director of scientific and methodological work and methodologist.
+3. Carries out analytical work for collection, evaluation and analysis of received information.
+4. Participates in the organization of scientific and practical conferences, seminars, round tables and other forms of dissemination of experience on the subject of the implemented project of experimental work.
+5. Provides advisory and practical assistance to the staff of the institution in the areas of experimental work within their competence.
 
-On a resume, on the other hand, you write the result of your performance in a job, for example:
+On the other hand, in a resume, you write the result of your performance in a job, for example:
 
-1. Developed a tool to analyze data quality, used ML and static methods. The tool allowed the customer to save up to 60 man/hours per month.
-2. Redesigned the model of classification of accounting texts. The new model is 15% faster and 6% better on the f1 metric.
+1. Developed a data quality analysis tool using ML and static methods. The tool allowed the client to save up to 60 man/hours per month.
+2. Redesigned the accounting text classification model. The new model is 15% faster and 6% better on the f1 metric.
 
-**5. Outcomes**
- This item is the most important on the resume. The hiring companies are always interested in what results you have achieved, so it is advisable to digitize them. Verbs to help you describe your accomplishments:
+**5. Results**
+ This is the most important part of the resume. The hiring companies are always interested in the results you have achieved, so it is advisable to digitize them. Verbs to help you describe your accomplishments:
 
-- I improved…
-- I reduced…
-- I optimized…
+- I improved...
+- I reduced...
+- I optimized...
 - I developed...
 
-**Work Experience Without Experience.** What to write?
-The most common question is: "What to write on a resume if you don't have experience?"
+**Work experience without experience.** What to write?
+The most common question is: "What to put on a resume if you have no experience?"
 
 1. Internships or practicums from School 21.
-2. Freelance projects that you can and should put in your portfolio.
-3. The learning projects you did as part of your School 21 training can also be recorded as your experience.
-4. Participate in a smart volunteer project. Apply for a project, and if successfully selected, complete the assignment and put it in your portfolio. (ProCharity).
-5. Professional Projects. Programmers can participate in [Open Source projects](https://tproger.ru/articles/open-source-for-beginners/).
+2. Freelance projects that you can and should include in your portfolio.
+3. Learning projects that you have completed as part of your School 21 education can also be included in your portfolio.
+4. Participate in an intelligent volunteer project. Apply for a project and if selected, complete the assignment and add it to your portfolio. (ProCharity)
+5. Professional projects. Programmers can participate in [open source projects](https://tproger.ru/articles/open-source-for-beginners/).
 6. Experience in case championships and hackathons.
 
 ## "About me" section
 
-What should I write in the about me section?
+What should you write in the "About me" section?
 
-1. First and foremost, list your strengths that are important for the desired position.
- Even if you lack relevant experience, you can find strengths. This is most often the case with so-called "soft skills". Always appeal to your past experience as to why you think a particular skill is your strength. Look at last project exercise 2, where you did an analysis of your strengths and weaknesses.
+1. First and foremost, list your strengths that are important to the position you are applying for.
+ Even if you lack relevant experience, you can still find strengths. This is most often the case with "soft skills". Always use your past experience to explain why you think a particular skill is your strength. Refer back to the last Project Exercise 2, where you completed a strengths and weaknesses analysis.
 
-2. Write about your desire and ambition to develop in a new field. Tell people why you want to develop, what brought you into this field, etc. You can also attach a link to your portfolio/website/professional blog.
+2. Write about your desire and ambition to develop in a new area. Tell people why you want to develop, what brought you to this field, etc. You can also include a link to your portfolio/website/professional blog.
 
-_Tip #1:_
+_Tip #1_
 
-1. In the section, you can state your goal. Write about why you love your job and what inspires you.
-2. Indicate your qualities that are not related to the position, such as your athletic accomplishments.
-3. Specify your soft skills.
- Make sure you don't put it like that: stress-resistant, proactive, communicative, etc. When pointing out such skills, go back to your past experiences. Ask yourself: why do I have leadership skills? Perhaps you had experience as a project leader when you were a student? What made you stress-resistant?
+1. In this section, you can state your purpose. Write about why you love what you do and what inspires you.
+2. Include your qualities that are unrelated to the position, such as your athletic accomplishments.
+3. List your soft skills.
+ Make sure you don't say things like: stress-resistant, proactive, communicative, etc. When you identify these skills, go back to your past experiences. Ask yourself, "Why do I have leadership skills?" Maybe you were a project leader when you were a student? What made you stress resistant?
 
-## Where to create a resume?
+## Where to Write a Resume?
 
-1. Make a resume on hh.ru.
-2. Use resume builders, such as: BuduJobs, Icanchoose, Grintern, Novoresume, MyResume.ru.
-3. Use ready-made templates in Canva.
-4. Format your resume in Word (and save as a PDF).
-5. Create a resume in Word, save it on Google drive and send a link to your resume.
- (Don't forget to open access).
+1. Create a resume on hh.ru.
+2. Use resume builders, such as BuduJobs, Icanchoose, Grintern, Novoresume, MyResume.ru.
+3. Use ready-made templates on Canva.
+4. Format your resume in Word (and save it as a PDF).
+5. Create a resume in Word, save it to Google Drive, and send a link to your resume. (Don't forget to open access.)
 6. Create a resume in Notion.
 
-_Tip #1 "Make two resumes: One on HH.ru, and the second in any builder"_  
-HH.ru is a starting point in the job search. You can use a different resume for other career sites or when looking for a job in telegram channels.
+_Tip #1. Create two resumes: One on HH.ru and the second in any builder._ 
+HH.ru is a starting point for your job search. You can use a different resume for other career sites or when looking for a job in telegram channels.
 
-_Tip #2. "No more than 2 pages, but preferably one"_  
- The standard resume is 2 pages. You should place the most important information on the first page. But remember, it doesn't matter how many pages you have on your resume, what matters is that your resume is engaging.
+_Tip #2. Not more than 2 pages, preferably one._  
+ The standard resume is 2 pages. You should put the most important information on the first page. But remember, it doesn't matter how many pages your resume has, what matters is that your resume is interesting.
 
-The School 21 PIN team has prepared for you a checklist for creating a resume, as well as a resume template in Figma (materials -> Instructions for creating a resume).
+The School 21 PIN team has prepared a resume checklist for you, as well as a resume template in Figma (Materials -> Instructions for creating a resume).
 
 ## Typical mistakes when making a resume
 
@@ -230,7 +230,7 @@ The School 21 PIN team has prepared for you a checklist for creating a resume, a
 
 Why and when do I need a cover letter?
 
-1. Cover letter is needed when it is asked to write one in the job description.
+1. A cover letter is needed if the job description requires it.
  If this paragraph is there, it is better not to neglect it and fulfill the condition.
 2. If you're changing fields, it's imperative to write about your new motivation in your cover letter.
 3. If you are a young professional and just starting your career.
@@ -241,58 +241,57 @@ You need to answer two questions in your cover letter:
 1. Why does the company need you?
 2. Why do you need the company?
 
-Answer yourself the question, "What is it that hooks you? Why do you really want to work there?
- Show your motivation.
+Answer the question, "What is it that attracts you? Why do you want to work there?" Show your motivation.
 
 **Step 1.** Analyze the company/job/project.
 
-- tasks at the desired position (problems, priorities);
-- candidate requirements;
-- company mission;
-- values;
-- the qualities that a particular company values.
+- Tasks of the desired position (problems, priorities);
+- Candidate requirements;
+- Company mission;
+- Values;
+- The qualities that a particular company values.
 
 **Step 2.** Answer the questions:
 
-- What do I know about the company?
-- What motivates me in this position?
-- To what extent is this position a logical extension of my career?
-- What can I do to solve a particular problem?
-- What skills, knowledge, accomplishments do I possess to qualify for this position?
+- What do I know about the organization?
+- What motivates me for this position?
+- How is this position a logical extension of my career?
+- What can I do to solve a specific problem?
+- What skills, knowledge, accomplishments do I have that qualify me for this position?
 
-**Step 3.** Compose a cover letter using the structure:
+**Step 3.** Write a cover letter using the following structure:
 
-1. A brief greeting (If you know the HR's name, use it in your greeting).
+1. A brief greeting (if you know the hiring manager's name, use it in your greeting).
 2. Tell me what position you're applying for if you're sending a resume to an employer's work email. It's better to state exactly where you saw the job posting.
-3. Interest in the job/company/project (Answer the question: Why is the company interesting to you?).
-4. Strengths according to the desired position (Answer the question: Why might this company be interested in you?).
-5. Again, remind everybody of your motivation. For example: I would be happy to be considered for the position.
+3. Interest in the job/company/project (answer the question, "Why are you interested in this company?")
+4. Strengths according to the desired position (Answer the question, "Why should this company be interested in you?")
+5. Again, remind everyone of your motivation. For example: I would like to be considered for this position.
 6. Include your contact information.
 
-Example of a [Cover Letter](materials/Cover_Letter.pdf). (available for download in the folder materials -> Cover_Letter)
+Example of a [Cover Letter](Materials/Cover_Letter.pdf). (available for download in the Materials folder -> Cover_Letter)
 
-## How do you talk about salary?
+## How do you discuss salary?
 
-Try to stay on top of the salary analytics market. You can always look at your job analytics file.  
- There's a lot of information in open sources about the average salary range for specialists.
+Try to stay on top of the salary analysis market. You can always look at your job analysis file.  
+ There's a lot of information in open sources about the average salary range for professionals.
 
-Useful resources for salary analytics:
+_Useful Salary Analytics Resources:_
 
 1. Zarplatomer (SuperJob -\> Zarplatomer);
 2. Salary Survey (CAUS - Salary Survey);
-3. Staffing agencies that perform salary analytics (RealHR).
+3. Recruitment agencies that perform salary analysis (RealHR).
 
-To negotiate salary, whether at the recruitment stage or when talking about a raise, it's important to understand how much your labor is worth in the market:
+In order to negotiate salary, whether it's at the recruitment stage or when discussing a raise, it's important to understand how much your work is worth in the market:
 
-- Prepare yourself for the question "Why should we raise your salary?" What matters here is that you are showing results and your hard work in the company is making a difference/money. Then prepare a little progress report. What did you do? What have you accomplished? How was \*something\*/how is it now? What has improved as a result of your work/what indicators have increased/decreased due to what/what resources?
-- Look at the job analytics yourself. You've done job analytics on a past project. This is also your clue for salary negotiations.  
- If most of your skills match your desired positions, it's a good reason to talk to the person responsible about a raise.
+- Prepare for the question, "Why should we raise your salary?" It is important that you show results and that your hard work is making a difference in the company. Then prepare a small progress report. What have you been doing? What did you accomplish? How was *something*/how is it now? What has improved as a result of your work/what indicators have increased/decreased due to what/what resources?
+- See the job analysis for yourself. You've done job analysis on a previous project. This is also your guide for salary negotiations.  
+ If most of your skills match the positions you want, that's a good reason to talk to the manager about a raise.
 
 ## Chapter IV
 
 ## Task
 
-You need to make your own resume for the position you selected in the previous project. After you make a resume, you need to find someone in the same position you are applying for or among School 21 alumni and get feedback on the resume.
+You need to create your own resume for the position you chose in the previous project. After you have created your resume, you will need to find someone in the same position you are applying for, or among School 21 alumni, and get their feedback on your resume.
 
 It is desirable to evaluate each block of the resume:
 
@@ -307,16 +306,16 @@ It is desirable to evaluate each block of the resume:
 
 Action Algorithm:
 
-1. Sign up to the hh.ru website.
-2. Find a desired position that fits your skills and experience (Use Project 01).
-3. Create a resume for your desired position.
-4. Fill out the "about me" section.  
-5. Fill out the "contact information" section.  
-6. Fill out the "work experience" section. 
-7. Complete the "projects" section.
-8. Fill in the "education" section.  
-9. Fill in the "skills" section that corresponds to the specific position.  
-10. Post the resume.  
+1. Register at hh.ru website.
+2. Find a desired position that matches your skills and experience (use Project 01).
+3. Create a resume for the desired position.
+4. Complete the "About Me" section.  
+5. Complete the "Contact Information" section.  
+6. Complete the "Work Experience" section. 
+7. Complete the "Projects" section.
+8. Complete the "Education" section.  
+9. Complete the "Skills" section appropriate to the position.  
+10. Submit the resume.  
 11. Attach the completed resume to the _src_ folder. 
 
 ## Exercise 01
@@ -326,20 +325,20 @@ Action Algorithm:
 
 1. Find someone who works in a current position or manages such a team.
 2. Ask for feedback on the resume (preferably in a correspondence format).
-3. Attach feedback.
-4. Mention what you changed after getting feedback.
+3. Include the feedback.
+4. Mention what you changed after receiving feedback.
 
-_\*You could use the School 21 community._
+You could use the School 21 community.
 
 ## Exercise 02
 
-### Cover letter
+### Cover Letter
 
 Action Algorithm:
 
-1. Write a cover letter to the selected job opening.
+1. Write a cover letter for the selected job opening.
 2. Answer the two main questions in your cover letter:
   - Why does the company need you?
   - Why do you need the company?
 
->Please leave feedback on the project in the [feedback form.](https://forms.gle/EswurHPem46cnxCZA)
+>Please leave feedback on the project in the [Feedback Form](https://forms.gle/EswurHPem46cnxCZA).
